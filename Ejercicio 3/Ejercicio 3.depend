@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593818869 source:c:\users\valeria\desktop\ejercicio 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
